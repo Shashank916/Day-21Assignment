@@ -1,0 +1,3 @@
+D:\Phase-1\DAY-21\Assignment\Assignment\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+D:\Phase-1\DAY-21\Assignment\Assignment\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+D:\Phase-1\DAY-21\Assignment\Assignment\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
